@@ -15,7 +15,7 @@
     "moment": "^2.27.0",
     "mongoose": "^5.9.24",
     "qs": "^6.9.4",
-    "socket.io": "^2.3.0"
+    "socket.io": "^2.5.0"
   },
   "devDependencies": {
     "dotenv": "^8.2.0",
