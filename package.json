@@ -14,7 +14,7 @@
     "express": "^4.17.1",
     "moment": "^2.27.0",
     "mongoose": "^5.9.24",
-    "qs": "^6.9.4",
+    "qs": "^6.9.7",
     "socket.io": "^2.3.0"
   },
   "devDependencies": {
